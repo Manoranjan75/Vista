@@ -1,5 +1,9 @@
 # 🌟 Vista - A Minimalist Online Portfolio
 
+<p align="center">
+  <img src="./portfolio.jpg" alt="Vista" width="600px"/>
+</p>
+
 **Vista** is a sleek, responsive, and minimalist online portfolio designed to showcase a developer’s educational background, work experience, technical skills, certifications, and projects — all in one place. Built entirely with **HTML**, **CSS**, and **JavaScript**, this portfolio reflects clean design and strong attention to detail, using only black, white, and grey for a timeless and professional look.
 
 ## 🌐 Live Preview
